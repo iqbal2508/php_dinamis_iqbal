@@ -46,8 +46,33 @@
     <p class="card-text">Iqbal</p>
   </div>
 </div>
+
+
     </div>
+    <!-- penutup content 1 -->
     <div class="col-8">
+      <h1>selamat datang di website saya </h1>
+      <p>perkenalkan nama saya muhammad iqbal arrasyid di panggil saja iqbal saya manusia hidup kok ,ya gimana ya mau
+         isi apa bingung ini . awkwkkw
+      </p>
+    </div>
+  </div>
+  <!-- content 2 -->
+  <div class="container">
+  <div class="row">
+    <div class="col-8">
+    <div class="card mx-auto" style="width: 18rem;">
+  <img src="assets/img/IQBAL.jpeg" class="card-img-top"
+  style="width: 9rem;">
+  <div class="card-body">
+    <p class="card-text">Iqbal</p>
+  </div>
+</div>
+
+
+    </div>
+    <!-- penutup content 2 -->
+    <div class="col-4">
       <h1>selamat datang di website saya </h1>
       <p>perkenalkan nama saya muhammad iqbal arrasyid di panggil saja iqbal saya manusia hidup kok ,ya gimana ya mau
          isi apa bingung ini . awkwkkw
